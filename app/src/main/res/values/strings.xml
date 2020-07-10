@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dummy</string>
+    <string name="username">User</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="welcome_text">Hello</string>
+</resources>
